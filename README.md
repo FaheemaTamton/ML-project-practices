@@ -1,5 +1,3 @@
 # ML project practices
 
-
-
-M
+Machine Learningalgorithms - project practices
